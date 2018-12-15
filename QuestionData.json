@@ -1,0 +1,64 @@
+[{
+	"category": "Category: The Baha'i Fast",
+	"question": "The Baha'i Fast takes place during which month on the Badi Calendar?",
+	"answers": [
+		"Ala",
+		"Mulk",
+		"March",
+		"Masa'il"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Baha'i Fast takes place during the month of Ala"
+}, {
+	"category": "Category: Baha'i Prayers",
+	"question": "How many obligatory prayers do we have to choose from?",
+	"answers": [
+		"2",
+		"3",
+		"9",
+		"7"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "There are exactly three Obligatory prayers to choose from."
+}, {
+	"category": "Category: Baha'i Basics",
+	"question": "What is the main Baha'i teaching about God?",
+	"answers": [
+		"God regularly controls all believers in their everyday lives.",
+		"There are many gods, each with a different personality.",
+		"The essence of God is revealed through Baha'i teachings."
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "The essence of God is revealed through Baha'i teachings.."
+}, {
+	"category": "Category: The Baha'i Fast",
+	"question": "The main reason Baha'is fast is to:",
+	"answers": [
+		"Lose weight",
+		"Reinvigorate the soul and bring a person closer to God.",
+		"Teach us what hunger feels like"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The Baha'i Fast helps refresh our spirit and bring us closer to God."
+}, {
+	"category": "Category: Baha'i History ",
+	"question": "Which British newspaper, published on 19 November 1845, made the first reference in any Western publication of the arrest and torture of the Báb’s followers in Iran?",
+	"answers": [
+		"The London Illustrated News",
+		"The Guardian",
+		"The Times"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "The Times. The article was headed: ‘MAHOMETAN SCHISM’ and describes how four Bábís were brutally tortured,"
+}, {
+	"category": "Category: Baha'i History",
+	"question": "What college did Shoghi Effendi attend?",
+	"answers": [
+		"Jesus",
+		"Balliol",
+		"Brasenose",
+		"Oregon State"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Shoghi Effendi studied social, economic and political sciences at Balliol College."
+}]
