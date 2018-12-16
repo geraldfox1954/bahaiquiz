@@ -15,8 +15,8 @@
 	"answers": [
 		"2",
 		"3",
-		"9",
-		"7"
+		"7",
+		"9"
 	],
 	"correctAnswerIndex": 1,
 	"feedback": "There are exactly three Obligatory prayers to choose from."
@@ -36,7 +36,8 @@
 	"answers": [
 		"Lose weight",
 		"Reinvigorate the soul and bring a person closer to God.",
-		"Teach us what hunger feels like"
+		"Teach us what hunger feels like",
+		"Earn brownie points"
 	],
 	"correctAnswerIndex": 1,
 	"feedback": "The Baha'i Fast helps refresh our spirit and bring us closer to God."
@@ -46,7 +47,8 @@
 	"answers": [
 		"The London Illustrated News",
 		"The Guardian",
-		"The Times"
+		"The Times",
+		"The Star of the West"
 	],
 	"correctAnswerIndex": 2,
 	"feedback": "The Times. The article was headed: ‘MAHOMETAN SCHISM’ and describes how four Bábís were brutally tortured,"
@@ -57,7 +59,7 @@
 		"Jesus",
 		"Balliol",
 		"Brasenose",
-		"Oregon State"
+		"Harvard"
 	],
 	"correctAnswerIndex": 1,
 	"feedback": "Shoghi Effendi studied social, economic and political sciences at Balliol College."
