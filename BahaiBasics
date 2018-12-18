@@ -1,945 +1,987 @@
  [{
-		"category": "Category: Baha'i Basics",
-		"question": "The first month of the Baha'i Year is called what?",
-		"answers": [
-			"Ala",
-			"Mulk",
-			"Baha",
-			"Masa'il"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Baha is the first month of the Baha'i year."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Each Baha'i month lasts for how many days?",
-		"answers": [
-			"19",
-			"21",
-			"28",
-			"30"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Each month has 19 days."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What does Naw Ruz mark the end of?",
-		"answers": [
-			"Ayyam'i'Ha",
-			"The days of sorrow.",
-			"The celebration of Ridvan",
-			"The Fast"
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "The first month of the Baha'i Year is called what?",
+ 		"answers": [
+ 			"Ala",
+ 			"Mulk",
+ 			"Baha",
+ 			"Masa'il"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Baha is the first month of the Baha'i year."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Each Baha'i month lasts for how many days?",
+ 		"answers": [
+ 			"19",
+ 			"21",
+ 			"28",
+ 			"30"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Each month has 19 days."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What does Naw Ruz mark the end of?",
+ 		"answers": [
+ 			"Ayyam'i'Ha",
+ 			"The days of sorrow.",
+ 			"The celebration of Ridvan",
+ 			"The Fast"
 
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "After the 19 days of fasting, we enjoy Naw-Ruz. Hooray! Let's eat!"
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What year did Abdu'l Baha first visit the U.S.?",
-		"answers": [
-			"1909",
-			"1912",
-			"1915",
-			"1920"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Abdu'l-Baha visited the U.S. in 1912."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What does 'The Bab' mean? ",
-		"answers": [
-			"Bridge",
-			"The Mahdi",
-			"Gate",
-			"Beloved"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The word Bab in Arabic means Gate."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "On what date did the Bab declare his mission?",
-		"answers": [
-			" April 21, 1843",
-			" May 23, 1844",
-			" June 2, 1845  ",
-			" May 30, 1849"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Bab declared himself to Mulla Husayn on May 23, 1844."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": " What was the Bab's name at birth?  ",
-		"answers": [
-			"Siyyid 'Ali-Muhammad",
-			"Siyyid Allah Muhammed",
-			"Siyyid Kazim-Rashti",
-			"Siyyid Husayn Ali" 
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Bab's birth name was Siyyid 'Ali-Muhammad."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What is the month of Fasting called?",
-		"answers": [
-			"Baha",
-			"Jamal",
-			"Nur",
-			"Ala"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "The month of fasting is called Ala. "
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "The Kitab i Aqdas is known in English as?",
-		"answers": [
-			"The Most Great Book",
-			"The Book of Revelation",
-			"The book of Certitude",
-			"The Most Holy Book"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "The Kitab'i-Aqdas is known as The Most Holy Book."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What city is the Shrine of the Bab located in?",
-		"answers": [
-			"Acca",
-			"Haifa",
-			"Carmel",
-			"Teheran"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The shrine of the Bab is located on Mount Carmel in Haifa Israel."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "The Bab foretold the coming of what prophet?",
-		"answers": [
-			"Baha'u'llah",
-			"Muhammad",
-			"Zoroaster",
-			"Jesus"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Bab foretold the coming of Baha'u'llah."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Whom did Bahá’u’lláh appoint as his successor?",
-		"answers": [
-			"Abdu’l-Bahá",
-			"Shoghi Effendi",
-			"Shaykh Ahmad",
-			"The Universal House of Justice"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Bahá’u’lláh appointed Abdu'l-Baha as his successor."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "The Bahá’í calendar starts from which year?",
-		"answers": [
-			"1817",
-			"1844",
-			"1853",
-			"1893"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Baha'i calendar began in the year 1844."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What is the name of the elected world body which handles the affairs of the Faith?",
-		"answers": [
-			"The Social Development Council",
-			"The Eternal House of Progress",
-			"The Universal House of Justice",
-			"The Spitual Unity Cooperative"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The Universal House of Justice is the supreme elected body of the world."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What is the most fundamental teaching of the Bahá’í Faith?",
-		"answers": [
-			"Detachment",
-			"Honesty",
-			"Equality",
-			"Unity"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Unity is the most fundimental teaching of the Bahá’í Faith."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "How many years did Baha'u'llah say would pass before another Messenger of God would appear?",
-		"answers": [
-			"900 years",
-			"1000 years",
-			"2000 years",
-			"He did not say."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Baha'u'llah said that it would be at least 1000 before another Messenger would appear."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Which of the following should Bahá’ís avoid?",
-		"answers": [
-			"Shellfish",
-			"Medicines",
-			"Alcohol",
-			"Pork"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Avoid Alcohol"
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Which of the following are not exempt from fasting?",
-		"answers": [
-			"Anyone over 70",
-			"Anyone who is pregnant or nursing",
-			"Anyone who works as a chef in a restraunt",
-			"Anyone doing heavy manual labour"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Wven if you work as a chef in a restraunt, you should still fast. "
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Bahá’u’lláh forbids backbiting. What does this mean?",
-		"answers": [
-			"Arguing with someone",
-			"Talking about people in their absence.",
-			"Being rude to your parrents.",
-			"Giving someone the evil eye."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Talking about people in their absence. "
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "When saying a daily obligatory prayer, a Bahá’í should turn towards which holy place?",
-		"answers": [
-			"The Shrine of the Báb in Haifa, Israel",
-			"The House of Bahá’u’lláh in Baghdad, Iraq",
-			"The House of Bahá’u’lláh in Edirne, Turkey",
-			"The Shrine of Bahá’u’lláh near Akka, Israel"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Baha'is should face The Shrine of Bahá’u’lláh near Akka, Israel"
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Which of these is sometimes used as a greeting by the Bahá’ís?",
-		"answers": [
-			"Peace be upon you.",
-			"May God's light shine on you.",
-			"Alláh-u-Abhá",
-			"Alláh-u-Akbar"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Alláh-u-Abhá meaning God is the Most Glorious is often used as a greeeting."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": " Baha'is must obtain their parents’ permission to:",
-		"answers": [
-			"Leave home",
-			"Get married",
-			"Date someone parents do not approve of",
-			"Play video games"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "You can do as you like but do need your parents permission to marry."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Which of these is a Baha'i burial law.",
-		"answers": [
-			"The body must be wrapped in a pure white shroud.",
-			"The body should be buried less than an hour’s journey from the place of death.",
-			"The deceased's family should wear black as a sign of respect.",
-			"All the person’s valuable possessions should also be placed in the grave "
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The deceased should be buried less than an hour’s journey from the place of death."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "On the first day of each Bahá’í month, there is a meeting of each local Bahá’í community.What is this called?",
-		"answers": [
-			"The Day of Spirituality",
-			"The Feasting Day",
-			"The Day of the Covenant.",
-			"The Nineteen Day Feast."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Baha'is gather for The Nineteen Day Feast"
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "How many Holy Days are there during the year on which work should be suspended.",
-		"answers": [
-			"6",
-			"9",
-			"10",
-			"19"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "There are nine holy days. Check them out."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "How does a person join the Bahá’í community",
-		"answers": [
-			"By completing a sequence of courses and getting a passing grade.",
-			"By declaring their belief in Bahá’u’lláh as a messenger of God.",
-			"By undergoing a secret initiation ceremony",
-			"By paying a subscription fee and signing a membership form"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "By declaring belief in Bahá’u’lláh as a messenger of God, and a willingness to follow his teachings."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Which is the most important Bahá’í festival?",
-		"answers": [
-			"Naw-Ruz",
-			"The 12 Days of Ridván",
-			"The day of the Covenant",
-			"Ayyam'i-Ha because I get presents!"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The 12 days of Ridvan during which Bahá’u’lláh announced his mission to his followers."
-	}, {
-		"category": "Category: Baha'i ",
-		"question": "Nine elected members make up this institution that guides the development of the Baha'i world.",
-		"answers": [
-			"The Universal House of Justice",
-			"The United Nations",
-			"The Universal Board of Councelors",
-			"The International House of Pancakes"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Universal House of Justice is made up of nine elected members."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "How long do terms on the Universal House of Justice last? ",
-		"answers": [
-			"4 years",
-			"5 years",
-			"7 years",
-			"They change at the end of each plan"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Each term lasts 5 years."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Which is not an elected position in the Baha'i Faith?",
-		"answers": [
-			"National Spiritual Assembly",
-			"Local Spiritual Assembly",
-			"Continental board of couuncelors"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Continental board of couuncelors are appointed not elected. "
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God",
-		"answers": [
-			"Progressive Revelaation",
-			"The Holy Trinity",
-			"The Eternal Progression",
-			"The Holy Multitude"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God is known as Progressive revelation."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "How long can someone serve as a member of the Universal House of Justice?",
-		"answers": [
-			"Five Years",
-			"Ten Years",
-			"Two Terms",
-			"Indefinitely"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "There is no limit to the number of terms that one can be elected to and serve on the Universal House of Justice."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "Who ordained the institution of the Universal House of Justice?",
-		"answers": [
-			"Baha'u'llah",
-			"Abdu'l-Baha",
-			"Shoghi Effendi",
-			"The collective members of the National Assemblies"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Bahá’u’lláh wrote that “the men of the House of Justice are the trustees of God among His servants."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Where can Bahá’ís visit the resting place of Shoghi Effendi?",
-		"answers": [
-			"Haifa",
-			"Lucerne",
-			"Akka",
-			"London"
-		],{
-		"category": "Category: Baha'i Basics",
-		"question": "Shoghi Effendi married Mary Sutherland Maxwell in 1937. In what city did she grow up?",
-		"answers": [
-			"New York",
-			"Montreal",
-			"London",
-			"Haifa"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Mary Maxwell, later known as Ruhiyyih Khanum grew up in Montreal."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "At different stages in his ministry Shoghi Effendi appointed a number of Bahá’ís as advisors who were known as:",
-		"answers": [
-			"Leaves of His Cause",
-			"Pioneers",
-			"Hands of the Cause",
-			"Universal House of Justice"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The Hands of the Cause were appointed by Shoghi Effendi. Hands were also appointed earlier by Abdu'l-Baha and Baha'u'llah."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Shoghi Effendi wrote only one book in English. Which book was it?",
-		"answers": [
-			"God Loves Laaughter",
-			"The Dawn Breakers",
-			"The Star of the West",
-			"God Passes By"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Although he wrote many letters and translated widely, his only original book in English is God Passes By."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "In 1963 there were 56 national spiritual assemblies. 10 years later in 1973, how many national assemblies were there",
-		"answers": [
-			"78",
-			"89",
-			"113",
-			"211"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "There were 113 National Spiritual Assemblies in 1973."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Where was the first election of the Universal House of Justice held?",
-		"answers": [
-			"London",
-			"Wilmette",
-			"Haifa",
-			"Teheran"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The first Universal House of Justice was elected in 1963 in Haifa."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Who chairs the meetings of the Universal House of Justice?",
-		"answers": [
-			"They all take turns.",
-			"The member elect a chairman.",
-			"The member who received the most votes in the election",
-			"The longest serving member"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "They take turns chairing their meetings."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "When Bahá’u’lláh was a young man, he was known by another title. What was it?",
-		"answers": [
-			"Father of Consolation",
-			"Father of Kindness",
-			"Father of Peace",
-			"Father of the poor"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "TBaha'u'llah was known as the Father of the Poor."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Into how many languages has Bahá’í literature been translated?",
-		"answers": [
-			"150",
-			"250",
-			"500",
-			"over 800"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "To date the Baha'i writings have been translated into over 800 languages."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "From 1953 onwards, when a Bahá’í arose to open a new country or territory for the Faith, Shoghi Effendi, gave them what title?",
-		"answers": [
-			"Apostle of Bahá’u’lláh",
-			"Pioneer of the Cause",
-			"Leader of the pack",
-			"Knight of Bahá’u’lláh"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Shoghi Effendi gave them the title Knight of Bahá’u’lláh."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Who, according to Bahá'í teachings, is responsible for generating society’s wealth?",
-		"answers": [
-			"All men",
-			"All adult members of the community",
-			"The working class",
-			"The government"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "All adult members of the community are responsible."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "In the Bahá'í teachings, it is envisioned that income tax should be paid by:",
-		"answers": [
-			"Everyone",
-			"Only the rich",
-			"Those whose income exceeds their needs",
-			"The top 1%"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Those whose income exceeds their needs should pay tax."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Who is  responsible for the implementation of social and economic development strategies?",
-		"answers": [
-			"Local government officials",
-			"National government",
-			"Non-governmental organisations (NGOs)",
-			"the people themselves"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "The people are  primarily responsible for implementing social and economic solutions"
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "What is regarded as the most important economic activity?",
-		"answers": [
-			"agriculture",
-			"manufacturing",
-			"trade",
-			"Infrastructure"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The majority of the world’s population still earn their livelihood through agriculture, and we all depend upon it to survive."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "In the Bahá’í understanding, what is the principal driving force behind social advancement?",
-		"answers": [
-			"True religion",
-			"Effective leadership",
-			"Consultation",
-			"Investment"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Each divinely-inspired religion brings the moral teachings and social principles which are essential for the advancement of humanity."
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "",
-		"answers": [
-			"",
-			"",
-			"",
-			""
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "T"
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "",
-		"answers": [
-			"",
-			"",
-			"",
-			""
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "T"
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "",
-		"answers": [
-			"",
-			"",
-			"",
-			""
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "T"
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "",
-		"answers": [
-			"",
-			"",
-			"",
-			""
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "T"
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "",
-		"answers": [
-			"",
-			"",
-			"",
-			""
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "T"
-	},{
-		"category": "Category: Baha'i Basics",
-		"question": "Baha'u'llah teaches that heaven and hell are:",
-		"answers": [
-			"are to be understood symbolically",
-			"are real places.",
-			"are nonexistent because our souls cease to exist after death."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "are to be understood symbolically and describe a state of nearness to or distance from God."
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "What does the name ‘Bahá’u’lláh’ mean?",
-		"answers": [
-			"Son of God",
-			"The Glory of God",
-			"The Manifistation of God",
-			"The Glorious One"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Baha'u'llah's name means The Glory of God."
-	},
-	{
-		"category": "Category: Baha'i Basics",
-		"question": "Baha'u'llah teaches that the purpose of this life is:",
-		"answers": [
-			"to acquire wealth and happiness. ",
-			"to study religion.",
-			"to develop virtues in preparation for the next world.",
-			"to receive and dispense justice."
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "We are in this world to develop virtues in preparation for the next world"
-	}, {
-		"category": "Category: Baha'i Basics",
-		"question": "How should people find spiritual truth?",
-		"answers": [
-			"By following their parent's religion.",
-			"Though rejection of material things.",
-			"By learning from the clergy.",
-			"By investigating truth for themselves."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Independent investigation of truth."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "What was the name given to the first 18 followers of the Báb who recognised Him soon after His declaration?",
-		"answers": [
-			"The Abha Kingdom",
-			"The Hands of the Cause",
-			"The Letters of the Living",
-			"The Gates of the Gate"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The first eighteen were called the Letters of the Living."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "The Bábís were attacked by government troops at Tabarsi (near Barfurush). What kind of place was this?",
-		"answers": [
-			"An Islamic shrine ",
-			"A government fort",
-			"A mountain retreat",
-			"An Islamic school"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Tabarsi was an Islamic shrine near near Barfurush. "
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Who was a foremost poet in Persia and was also a Letter of the Living?",
-		"answers": [
-			"Rumi",
-			"Mulla Husayn",
-			"Zaynab",
-			"Tahireh"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Tahireh was both a well known poet and a letter of the Living."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "What colour turban did the Báb wear to signify that He was a descendant of the Prophet Muhammad?",
-		"answers": [
-			"White",
-			"Red",
-			"Green",
-			"Turquoise"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Only decendants of Muhammed were allowed to wear a green turban."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "In what year was the Bab born?",
-		"answers": [
-			"1817",
-			"1819",
-			"1844",
-			"1853"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Bab was born in 1819."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "While in the Siyáh Chál, Bahá’u’lláh witnessed a vision. What form did this ‘vision’ take?",
-		"answers": [
-			"A Maiden ",
-			"A burning bush",
-			"An angel",
-			"A beam of light that spoke."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Bahá’u’lláh first received divine revelation when the Holy Spirit appeared to him in the form of a Maiden of Heaven."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Why was Bahá’u’lláh put in an underground dungeon called the Siyáh Chál in Tehran in the summer of 1852?",
-		"answers": [
-			"He did not believe in Muhammad",
-			"He was a notable Bábi ",
-			"He criticised the Government.",
-			"He caused a riot."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "He was one of 38 notable Bábís thrown into prison."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Where was Bahá’u’lláh banished first?",
-		"answers": [
-			"Constantinople",
-			"Akka",
-			"Baghdad",
-			"Adrianople"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Baha'u'llah was first banioshed to Baghdad. "
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Which of these is a place that Baha'u'llah did not visit?",
-		"answers": [
-			"Alexandria",
-			"Adrianople",
-			"Constantinople",
-			"Haifa"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Baha'u'llah did not visit Alexandria."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "The _____ minister, invited Bahá’u’lláh to go to ______. He declined the offer however and continued his exile to Iraq.",
-		"answers": [
-			"Turkish/Turkey",
-			"Israeli/Israel",
-			"Russian/Russia",
-			"British/Britian"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Baha'u'llah was offered passage to Russia."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Bahá’u’lláh wrote letters to the various kings and rulers. Which king did He not write to?",
-		"answers": [
-			"Tsar Alexander II of Russia",
-			"Queen Victoria",
-			"King Vittorio Emanuele II of Italy ",
-			"Pope Pius IX"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Baha'u'llah sent letters to all of the above except King Vittorio."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Baha'u'llah was born:",
-		"answers": [
-			"two years before the Bab.",
-			"two years after the Bab.",
-			"In 1823.",
-			"In Shiraz."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Baha'u'llah was born in 1817, two years before "
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Baha'u'llah's bith name was:",
-		"answers": [
-			"Mirza Ali-Husayn",
-			"Mirza Husayn-Alí ",
-			"Mirza Abdu'l-Ali",
-			"Mirza Ali-Muhammad"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Baha'u'llah's birth name was Mirza Husayn-‘Alí."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "What was the Báb's title as expected by Muslims?",
-		"answers": [
-			"The Qá'im ",
-			"The Qudsiyy",
-			"Muqaddas",
-			"Mabrūk"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Qá'imwas the one expected by Muslims. "
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Who ordered the mass killing of the Bábís during the time of the Bab?",
-		"answers": [
-			"Muhammad Sháh",
-			"Násiri'd-Dín Sháh",
-			"Nirza Ali Taqi",
-			"Mírzá Taqí Khán"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Mírzá Taqí Khán ordered the execution of Bahai's during the time of the Bab."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Who appealed to all of the Muhammadan world to prepare the way for Him who would appear. ",
-		"answers": [
-			"Mulla Husayn",
-			"Mulla Kásháni",
-			"Shaykh Ahmad-i-Ahsá'í",
-			"Siyyid Yahyá-i-Dárábí "
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Shaykh Ahmad-i-Ahsá'í and later Siyyid Kazim fortold the coming of the Bab."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "Who accompanied the Bab on his pilgrimage to Mecca?",
-		"answers": [
-			"Quddús",
-			"Mulla Husayn",
-			"Mulla Sadiq",
-			"Mírzá Muhit-i-Kirmání"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Quddus accompanied the Bab on his pilgrimage to Mecca and Medina."
-	}, {
-		"category": "Category: Baha'i History",
-		"question": "The Bab was sent to the: ",
-		"answers": [
-			"Castle of Máh-Kú",
-			"Siyah Chal in Teheran",
-			"The Prison of Rahst",
-			"The house of Husayn Khán"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Shah sent the Bab to the Castle of Máh-Kú"
-	}, {
-		"category": "Category: Baha'i History",
-		"question": " In what city did The Bab's martyrdom take place?",
-		"answers": [
-			"Teheran",
-			"Isfahan",
-			"Tabriz",
-			"Shiraz"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "53 ---The Bab was Martyered in Shiraz on July, 9th 1850." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "After the Martyrdom of the Bab, what became of the regiment that killed him?",
-		"answers": [
-			"They died when a dust storm killed them all in the desert. ",
-			"They were disbanded and died in poverty.",
-			"They were killed in an earthquake and by firing squad."
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "250 were killed when an earthquake destroyed the wall they were restingbeside. The others by firing squad for mutiny. " 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "Where was the Bab's deciple Quddus born?",
-		"answers": [
-			"Barfurush",
-			"Mazandaran",
-			"Shiraz",
-			"Isfahan"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Quddus was born in Barfurush. He was only 22 when he accepted the Bab." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "Which of the Letters of the Living never attained the presence of the Bab?",
-		"answers": [
-			"Quddus",
-			"Mulla  Aliy-i-Bastami",
-			"Tahireh",
-			"Mulla  Yusif-i-Ardibili"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Tahireh never atttained the presence of the Bab." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "Who sent Siyyid Yahyay-i-Darabi (Vahid) to investigate the claims of the Baab?",
-		"answers": [
-			"Fath Ali Shah",
-			"Muhammad Shah",
-			"Haji Mirza Aqasi",
-			"Sultan Ali-Muhammad"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Muhammad Shah sent Vahid to met with the Bab and investigate his claim." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "In which city was the first local assembly formed in 1899?",
-		"answers": [
-			"Chicago",
-			"Haifa",
-			"London",
-			"Teheran"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "The first Local Spiritual Assembly was formed in Teheran." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "Which European Queen became a Bahá’í in 1926?",
-		"answers": [
-			"Queen Gertrude of the Netherlands",
-			"Queen Latifa of Greeece",
-			"Queen Charlotte of Belgium",
-			"Queen Marie of Romania"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Queen Marie of Romania. She learned of the Faith from Martha Root " 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "Which Bahá’í property in Iran was demolished by the Revolutionary Guards in September 1979?",
-		"answers": [
-			"The House of Baha'u'llah",
-			"The House of Abbud",
-			"The House of the Bab",
-			"The Mansion of Udi Khammar"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The House of the Bab was destroyed in 1979 by the Iranian Revolutionary Guards." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "Which Russian philosopher and writer wrote: ‘Bahá’u’lláh’s teachings present us with the highest and purest form of religious teaching’?",
-		"answers": [
-			"Leo Tolstoy",
-			"Fyodor Dostoyevsky",
-			"Alexander Pushkin",
-			"Nickolas Tesla"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Tolstoy who was in the process of writing a book about Bahá’u’lláh when he passed away." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "How many Bahá’ís were killed in Iran between 1979 and 1988 for upholding their religious beliefs?",
-		"answers": [
-			"at least 10",
-			"at least 90",
-			"at least 135",
-			"at least 220"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Over 220 were martered for their beliefs during this ten year period." 
-	},{
-		"category": "Category: Baha'i History",
-		"question": "His Highness Malietoa Tanumafili II was the first reigning monarch to confirm his acceptance of the Bahá'í Faith in 1968.",
-		"answers": [
-			"He is from Tahiti.",
-			"He is from Vanuatu",
-			"He is from Samoa.",
-			"He is from Tonga."
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "He is from Western Samoa." 
-	}
-]
-
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "After the 19 days of fasting, we enjoy Naw-Ruz. Hooray! Let's eat!"
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What year did Abdu'l Baha first visit the U.S.?",
+ 		"answers": [
+ 			"1909",
+ 			"1912",
+ 			"1915",
+ 			"1920"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Abdu'l-Baha visited the U.S. in 1912."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What does 'The Bab' mean? ",
+ 		"answers": [
+ 			"Bridge",
+ 			"The Mahdi",
+ 			"Gate",
+ 			"Beloved"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The word Bab in Arabic means Gate."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "On what date did the Bab declare his mission?",
+ 		"answers": [
+ 			" April 21, 1843",
+ 			" May 23, 1844",
+ 			" June 2, 1845  ",
+ 			" May 30, 1849"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "The Bab declared himself to Mulla Husayn on May 23, 1844."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": " What was the Bab's name at birth?  ",
+ 		"answers": [
+ 			"Siyyid 'Ali-Muhammad",
+ 			"Siyyid Allah Muhammed",
+ 			"Siyyid Kazim-Rashti",
+ 			"Siyyid Husayn Ali"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The Bab's birth name was Siyyid 'Ali-Muhammad."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What is the month of Fasting called?",
+ 		"answers": [
+ 			"Baha",
+ 			"Jamal",
+ 			"Nur",
+ 			"Ala"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "The month of fasting is called Ala. "
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "The Kitab i Aqdas is known in English as?",
+ 		"answers": [
+ 			"The Most Great Book",
+ 			"The Book of Revelation",
+ 			"The book of Certitude",
+ 			"The Most Holy Book"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "The Kitab'i-Aqdas is known as The Most Holy Book."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What city is the Shrine of the Bab located in?",
+ 		"answers": [
+ 			"Acca",
+ 			"Haifa",
+ 			"Carmel",
+ 			"Teheran"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "The shrine of the Bab is located on Mount Carmel in Haifa Israel."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "The Bab foretold the coming of what prophet?",
+ 		"answers": [
+ 			"Baha'u'llah",
+ 			"Muhammad",
+ 			"Zoroaster",
+ 			"Jesus"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The Bab foretold the coming of Baha'u'llah."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Whom did Bahá’u’lláh appoint as his successor?",
+ 		"answers": [
+ 			"Abdu’l-Bahá",
+ 			"Shoghi Effendi",
+ 			"Shaykh Ahmad",
+ 			"The Universal House of Justice"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Bahá’u’lláh appointed Abdu'l-Baha as his successor."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "The Bahá’í calendar starts from which year?",
+ 		"answers": [
+ 			"1817",
+ 			"1844",
+ 			"1853",
+ 			"1893"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "The Baha'i calendar began in the year 1844."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What is the name of the elected world body which handles the affairs of the Faith?",
+ 		"answers": [
+ 			"The Social Development Council",
+ 			"The Eternal House of Progress",
+ 			"The Universal House of Justice",
+ 			"The Spitual Unity Cooperative"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The Universal House of Justice is the supreme elected body of the world."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What is the most fundamental teaching of the Bahá’í Faith?",
+ 		"answers": [
+ 			"Detachment",
+ 			"Honesty",
+ 			"Equality",
+ 			"Unity"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Unity is the most fundimental teaching of the Bahá’í Faith."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "How many years did Baha'u'llah say would pass before another Messenger of God would appear?",
+ 		"answers": [
+ 			"900 years",
+ 			"1000 years",
+ 			"2000 years",
+ 			"He did not say."
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Baha'u'llah said that it would be at least 1000 before another Messenger would appear."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Which of the following should Bahá’ís avoid?",
+ 		"answers": [
+ 			"Shellfish",
+ 			"Medicines",
+ 			"Alcohol",
+ 			"Pork"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Avoid Alcohol"
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Which of the following are not exempt from fasting?",
+ 		"answers": [
+ 			"Anyone over 70",
+ 			"Anyone who is pregnant or nursing",
+ 			"Anyone who works as a chef in a restraunt",
+ 			"Anyone doing heavy manual labour"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Wven if you work as a chef in a restraunt, you should still fast. "
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Bahá’u’lláh forbids backbiting. What does this mean?",
+ 		"answers": [
+ 			"Arguing with someone",
+ 			"Talking about people in their absence.",
+ 			"Being rude to your parrents.",
+ 			"Giving someone the evil eye."
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Talking about people in their absence. "
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "When saying a daily obligatory prayer, a Bahá’í should turn towards which holy place?",
+ 		"answers": [
+ 			"The Shrine of the Báb in Haifa, Israel",
+ 			"The House of Bahá’u’lláh in Baghdad, Iraq",
+ 			"The House of Bahá’u’lláh in Edirne, Turkey",
+ 			"The Shrine of Bahá’u’lláh near Akka, Israel"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Baha'is should face The Shrine of Bahá’u’lláh near Akka, Israel"
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Which of these is sometimes used as a greeting by the Bahá’ís?",
+ 		"answers": [
+ 			"Peace be upon you.",
+ 			"May God's light shine on you.",
+ 			"Alláh-u-Abhá",
+ 			"Alláh-u-Akbar"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Alláh-u-Abhá meaning God is the Most Glorious is often used as a greeeting."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": " Baha'is must obtain their parents’ permission to:",
+ 		"answers": [
+ 			"Leave home",
+ 			"Get married",
+ 			"Date someone parents do not approve of",
+ 			"Play video games"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "You can do as you like but do need your parents permission to marry."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Which of these is a Baha'i burial law.",
+ 		"answers": [
+ 			"The body must be wrapped in a pure white shroud.",
+ 			"The body should be buried less than an hour’s journey from the place of death.",
+ 			"The deceased's family should wear black as a sign of respect.",
+ 			"All the person’s valuable possessions should also be placed in the grave "
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "The deceased should be buried less than an hour’s journey from the place of death."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "On the first day of each Bahá’í month, there is a meeting of each local Bahá’í community.What is this called?",
+ 		"answers": [
+ 			"The Day of Spirituality",
+ 			"The Feasting Day",
+ 			"The Day of the Covenant.",
+ 			"The Nineteen Day Feast."
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Baha'is gather for The Nineteen Day Feast"
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "How many Holy Days are there during the year on which work should be suspended.",
+ 		"answers": [
+ 			"6",
+ 			"9",
+ 			"10",
+ 			"19"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "There are nine holy days. Check them out."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "How does a person join the Bahá’í community",
+ 		"answers": [
+ 			"By completing a sequence of courses and getting a passing grade.",
+ 			"By declaring their belief in Bahá’u’lláh as a messenger of God.",
+ 			"By undergoing a secret initiation ceremony",
+ 			"By paying a subscription fee and signing a membership form"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "By declaring belief in Bahá’u’lláh as a messenger of God, and a willingness to follow his teachings."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Which is the most important Bahá’í festival?",
+ 		"answers": [
+ 			"Naw-Ruz",
+ 			"The 12 Days of Ridván",
+ 			"The day of the Covenant",
+ 			"Ayyam'i-Ha because I get presents!"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "The 12 days of Ridvan during which Bahá’u’lláh announced his mission to his followers."
+ 	}, {
+ 		"category": "Category: Baha'i ",
+ 		"question": "Nine elected members make up this institution that guides the development of the Baha'i world.",
+ 		"answers": [
+ 			"The Universal House of Justice",
+ 			"The United Nations",
+ 			"The Universal Board of Councelors",
+ 			"The International House of Pancakes"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The Universal House of Justice is made up of nine elected members."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "How long do terms on the Universal House of Justice last? ",
+ 		"answers": [
+ 			"4 years",
+ 			"5 years",
+ 			"7 years",
+ 			"They change at the end of each plan"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Each term lasts 5 years."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Which is not an elected position in the Baha'i Faith?",
+ 		"answers": [
+ 			"National Spiritual Assembly",
+ 			"Local Spiritual Assembly",
+ 			"Continental board of couuncelors"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Continental board of couuncelors are appointed not elected. "
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God",
+ 		"answers": [
+ 			"Progressive Revelaation",
+ 			"The Holy Trinity",
+ 			"The Eternal Progression",
+ 			"The Holy Multitude"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God is known as Progressive revelation."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "How long can someone serve as a member of the Universal House of Justice?",
+ 		"answers": [
+ 			"Five Years",
+ 			"Ten Years",
+ 			"Two Terms",
+ 			"Indefinitely"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "There is no limit to the number of terms that one can be elected to and serve on the Universal House of Justice."
+ 	}, {
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Who ordained the institution of the Universal House of Justice?",
+ 		"answers": [
+ 			"Baha'u'llah",
+ 			"Abdu'l-Baha",
+ 			"Shoghi Effendi",
+ 			"The collective members of the National Assemblies"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Bahá’u’lláh wrote that “the men of the House of Justice are the trustees of God among His servants."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Shoghi Effendi married Mary Sutherland Maxwell in 1937. In what city did she grow up?",
+ 		"answers": [
+ 			"New York",
+ 			"Montreal",
+ 			"London",
+ 			"Haifa"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Mary Maxwell, later known as Ruhiyyih Khanum grew up in Montreal."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "At different stages in his ministry Shoghi Effendi appointed a number of Bahá’ís as advisors who were known as:",
+ 		"answers": [
+ 			"Leaves of His Cause",
+ 			"Pioneers",
+ 			"Hands of the Cause",
+ 			"Universal House of Justice"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The Hands of the Cause were appointed by Shoghi Effendi. Hands were also appointed earlier by Abdu'l-Baha and Baha'u'llah."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Shoghi Effendi wrote only one book in English. Which book was it?",
+ 		"answers": [
+ 			"God Loves Laaughter",
+ 			"The Dawn Breakers",
+ 			"The Star of the West",
+ 			"God Passes By"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Although he wrote many letters and translated widely, his only original book in English is God Passes By."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "In 1963 there were 56 national spiritual assemblies. 10 years later in 1973, how many national assemblies were there",
+ 		"answers": [
+ 			"78",
+ 			"89",
+ 			"113",
+ 			"211"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "There were 113 National Spiritual Assemblies in 1973."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Where was the first election of the Universal House of Justice held?",
+ 		"answers": [
+ 			"London",
+ 			"Wilmette",
+ 			"Haifa",
+ 			"Teheran"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The first Universal House of Justice was elected in 1963 in Haifa."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Who chairs the meetings of the Universal House of Justice?",
+ 		"answers": [
+ 			"They all take turns.",
+ 			"The member elect a chairman.",
+ 			"The member who received the most votes in the election",
+ 			"The longest serving member"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "They take turns chairing their meetings."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "When Bahá’u’lláh was a young man, he was known by another title. What was it?",
+ 		"answers": [
+ 			"Father of Consolation",
+ 			"Father of Kindness",
+ 			"Father of Peace",
+ 			"Father of the poor"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "TBaha'u'llah was known as the Father of the Poor."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Into how many languages has Bahá’í literature been translated?",
+ 		"answers": [
+ 			"150",
+ 			"250",
+ 			"500",
+ 			"over 800"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "To date the Baha'i writings have been translated into over 800 languages."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "From 1953 onwards, when a Bahá’í arose to open a new country or territory for the Faith, Shoghi Effendi, gave them what title?",
+ 		"answers": [
+ 			"Apostle of Bahá’u’lláh",
+ 			"Pioneer of the Cause",
+ 			"Leader of the pack",
+ 			"Knight of Bahá’u’lláh"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Shoghi Effendi gave them the title Knight of Bahá’u’lláh."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Who, according to Bahá'í teachings, is responsible for generating society’s wealth?",
+ 		"answers": [
+ 			"All men",
+ 			"All adult members of the community",
+ 			"The working class",
+ 			"The government"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "All adult members of the community are responsible."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "In the Bahá'í teachings, it is envisioned that income tax should be paid by:",
+ 		"answers": [
+ 			"Everyone",
+ 			"Only the rich",
+ 			"Those whose income exceeds their needs",
+ 			"The top 1%"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Those whose income exceeds their needs should pay tax."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Who is  responsible for the implementation of social and economic development strategies?",
+ 		"answers": [
+ 			"Local government officials",
+ 			"National government",
+ 			"Non-governmental organisations (NGOs)",
+ 			"the people themselves"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "The people are  primarily responsible for implementing social and economic solutions"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What is regarded as the most important economic activity?",
+ 		"answers": [
+ 			"agriculture",
+ 			"manufacturing",
+ 			"trade",
+ 			"Infrastructure"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The majority of the world’s population still earn their livelihood through agriculture, and we all depend upon it to survive."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "In the Bahá’í understanding, what is the principal driving force behind social advancement?",
+ 		"answers": [
+ 			"True religion",
+ 			"Effective leadership",
+ 			"Consultation",
+ 			"Investment"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Each divinely-inspired religion brings the moral teachings and social principles which are essential for the advancement of humanity."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "",
+ 		"answers": [
+ 			"",
+ 			"",
+ 			"",
+ 			""
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "T"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "",
+ 		"answers": [
+ 			"",
+ 			"",
+ 			"",
+ 			""
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "T"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "",
+ 		"answers": [
+ 			"",
+ 			"",
+ 			"",
+ 			""
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "T"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "",
+ 		"answers": [
+ 			"",
+ 			"",
+ 			"",
+ 			""
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "T"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "",
+ 		"answers": [
+ 			"",
+ 			"",
+ 			"",
+ 			""
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "T"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Baha'u'llah teaches that heaven and hell are:",
+ 		"answers": [
+ 			"are to be understood symbolically",
+ 			"are real places.",
+ 			"are nonexistent because our souls cease to exist after death."
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "are to be understood symbolically and describe a state of nearness to or distance from God."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "What does the name ‘Bahá’u’lláh’ mean?",
+ 		"answers": [
+ 			"Son of God",
+ 			"The Glory of God",
+ 			"The Manifistation of God",
+ 			"The Glorious One"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Baha'u'llah's name means The Glory of God."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "Baha'u'llah teaches that the purpose of this life is:",
+ 		"answers": [
+ 			"to acquire wealth and happiness. ",
+ 			"to study religion.",
+ 			"to develop virtues in preparation for the next world.",
+ 			"to receive and dispense justice."
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "We are in this world to develop virtues in preparation for the next world"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i Basics",
+ 		"question": "How should people find spiritual truth?",
+ 		"answers": [
+ 			"By following their parent's religion.",
+ 			"Though rejection of material things.",
+ 			"By learning from the clergy.",
+ 			"By investigating truth for themselves."
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Independent investigation of truth."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "What was the name given to the first 18 followers of the Báb who recognised Him soon after His declaration?",
+ 		"answers": [
+ 			"The Abha Kingdom",
+ 			"The Hands of the Cause",
+ 			"The Letters of the Living",
+ 			"The Gates of the Gate"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The first eighteen were called the Letters of the Living."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "The Bábís were attacked by government troops at Tabarsi (near Barfurush). What kind of place was this?",
+ 		"answers": [
+ 			"An Islamic shrine ",
+ 			"A government fort",
+ 			"A mountain retreat",
+ 			"An Islamic school"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Tabarsi was an Islamic shrine near near Barfurush. "
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Who was a foremost poet in Persia and was also a Letter of the Living?",
+ 		"answers": [
+ 			"Rumi",
+ 			"Mulla Husayn",
+ 			"Zaynab",
+ 			"Tahireh"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Tahireh was both a well known poet and a letter of the Living."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "What colour turban did the Báb wear to signify that He was a descendant of the Prophet Muhammad?",
+ 		"answers": [
+ 			"White",
+ 			"Red",
+ 			"Green",
+ 			"Turquoise"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Only decendants of Muhammed were allowed to wear a green turban."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "In what year was the Bab born?",
+ 		"answers": [
+ 			"1817",
+ 			"1819",
+ 			"1844",
+ 			"1853"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "The Bab was born in 1819."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "While in the Siyáh Chál, Bahá’u’lláh witnessed a vision. What form did this ‘vision’ take?",
+ 		"answers": [
+ 			"A Maiden ",
+ 			"A burning bush",
+ 			"An angel",
+ 			"A beam of light that spoke."
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Bahá’u’lláh first received divine revelation when the Holy Spirit appeared to him in the form of a Maiden of Heaven."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Why was Bahá’u’lláh put in an underground dungeon called the Siyáh Chál in Tehran in the summer of 1852?",
+ 		"answers": [
+ 			"He did not believe in Muhammad",
+ 			"He was a notable Bábi ",
+ 			"He criticised the Government.",
+ 			"He caused a riot."
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "He was one of 38 notable Bábís thrown into prison."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Where was Bahá’u’lláh banished first?",
+ 		"answers": [
+ 			"Constantinople",
+ 			"Akka",
+ 			"Baghdad",
+ 			"Adrianople"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Baha'u'llah was first banioshed to Baghdad. "
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Which of these is a place that Baha'u'llah did not visit?",
+ 		"answers": [
+ 			"Alexandria",
+ 			"Adrianople",
+ 			"Constantinople",
+ 			"Haifa"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Baha'u'llah did not visit Alexandria."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "The _____ minister, invited Bahá’u’lláh to go to ______. He declined the offer however and continued his exile to Iraq.",
+ 		"answers": [
+ 			"Turkish/Turkey",
+ 			"Israeli/Israel",
+ 			"Russian/Russia",
+ 			"British/Britian"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Baha'u'llah was offered passage to Russia."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Bahá’u’lláh wrote letters to the various kings and rulers. Which king did He not write to?",
+ 		"answers": [
+ 			"Tsar Alexander II of Russia",
+ 			"Queen Victoria",
+ 			"King Vittorio Emanuele II of Italy ",
+ 			"Pope Pius IX"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Baha'u'llah sent letters to all of the above except King Vittorio."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Baha'u'llah was born:",
+ 		"answers": [
+ 			"two years before the Bab.",
+ 			"two years after the Bab.",
+ 			"In 1823.",
+ 			"In Shiraz."
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Baha'u'llah was born in 1817, two years before "
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Baha'u'llah's bith name was:",
+ 		"answers": [
+ 			"Mirza Ali-Husayn",
+ 			"Mirza Husayn-Alí ",
+ 			"Mirza Abdu'l-Ali",
+ 			"Mirza Ali-Muhammad"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Baha'u'llah's birth name was Mirza Husayn-‘Alí."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "What was the Báb's title as expected by Muslims?",
+ 		"answers": [
+ 			"The Qá'im ",
+ 			"The Qudsiyy",
+ 			"Muqaddas",
+ 			"Mabrūk"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The Qá'imwas the one expected by Muslims. "
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Who ordered the mass killing of the Bábís during the time of the Bab?",
+ 		"answers": [
+ 			"Muhammad Sháh",
+ 			"Násiri'd-Dín Sháh",
+ 			"Nirza Ali Taqi",
+ 			"Mírzá Taqí Khán"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Mírzá Taqí Khán ordered the execution of Bahai's during the time of the Bab."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Who appealed to all of the Muhammadan world to prepare the way for Him who would appear. ",
+ 		"answers": [
+ 			"Mulla Husayn",
+ 			"Mulla Kásháni",
+ 			"Shaykh Ahmad-i-Ahsá'í",
+ 			"Siyyid Yahyá-i-Dárábí "
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Shaykh Ahmad-i-Ahsá'í and later Siyyid Kazim fortold the coming of the Bab."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Who accompanied the Bab on his pilgrimage to Mecca?",
+ 		"answers": [
+ 			"Quddús",
+ 			"Mulla Husayn",
+ 			"Mulla Sadiq",
+ 			"Mírzá Muhit-i-Kirmání"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Quddus accompanied the Bab on his pilgrimage to Mecca and Medina."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "The Bab was sent to the: ",
+ 		"answers": [
+ 			"Castle of Máh-Kú",
+ 			"Siyah Chal in Teheran",
+ 			"The Prison of Rahst",
+ 			"The house of Husayn Khán"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "The Shah sent the Bab to the Castle of Máh-Kú"
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": " In what city did The Bab's martyrdom take place?",
+ 		"answers": [
+ 			"Teheran",
+ 			"Isfahan",
+ 			"Tabriz",
+ 			"Shiraz"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "53 ---The Bab was Martyered in Shiraz on July, 9th 1850."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "After the Martyrdom of the Bab, what became of the regiment that killed him?",
+ 		"answers": [
+ 			"They died when a dust storm killed them all in the desert. ",
+ 			"They were disbanded and died in poverty.",
+ 			"They were killed in an earthquake and by firing squad."
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "250 were killed when an earthquake destroyed the wall they were restingbeside. The others by firing squad for mutiny. "
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Where was the Bab's deciple Quddus born?",
+ 		"answers": [
+ 			"Barfurush",
+ 			"Mazandaran",
+ 			"Shiraz",
+ 			"Isfahan"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Quddus was born in Barfurush. He was only 22 when he accepted the Bab."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Which of the Letters of the Living never attained the presence of the Bab?",
+ 		"answers": [
+ 			"Quddus",
+ 			"Mulla  Aliy-i-Bastami",
+ 			"Tahireh",
+ 			"Mulla  Yusif-i-Ardibili"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "Tahireh never atttained the presence of the Bab."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Who sent Siyyid Yahyay-i-Darabi (Vahid) to investigate the claims of the Baab?",
+ 		"answers": [
+ 			"Fath Ali Shah",
+ 			"Muhammad Shah",
+ 			"Haji Mirza Aqasi",
+ 			"Sultan Ali-Muhammad"
+ 		],
+ 		"correctAnswerIndex": 1,
+ 		"feedback": "Muhammad Shah sent Vahid to met with the Bab and investigate his claim."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "In which city was the first local assembly formed in 1899?",
+ 		"answers": [
+ 			"Chicago",
+ 			"Haifa",
+ 			"London",
+ 			"Teheran"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "The first Local Spiritual Assembly was formed in Teheran."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Which European Queen became a Bahá’í in 1926?",
+ 		"answers": [
+ 			"Queen Gertrude of the Netherlands",
+ 			"Queen Latifa of Greeece",
+ 			"Queen Charlotte of Belgium",
+ 			"Queen Marie of Romania"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Queen Marie of Romania. She learned of the Faith from Martha Root "
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Which Bahá’í property in Iran was demolished by the Revolutionary Guards in September 1979?",
+ 		"answers": [
+ 			"The House of Baha'u'llah",
+ 			"The House of Abbud",
+ 			"The House of the Bab",
+ 			"The Mansion of Udi Khammar"
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "The House of the Bab was destroyed in 1979 by the Iranian Revolutionary Guards."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "Which Russian philosopher and writer wrote: ‘Bahá’u’lláh’s teachings present us with the highest and purest form of religious teaching’?",
+ 		"answers": [
+ 			"Leo Tolstoy",
+ 			"Fyodor Dostoyevsky",
+ 			"Alexander Pushkin",
+ 			"Nickolas Tesla"
+ 		],
+ 		"correctAnswerIndex": 0,
+ 		"feedback": "Tolstoy who was in the process of writing a book about Bahá’u’lláh when he passed away."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "How many Bahá’ís were killed in Iran between 1979 and 1988 for upholding their religious beliefs?",
+ 		"answers": [
+ 			"at least 10",
+ 			"at least 90",
+ 			"at least 135",
+ 			"at least 220"
+ 		],
+ 		"correctAnswerIndex": 3,
+ 		"feedback": "Over 220 were martered for their beliefs during this ten year period."
+ 	},
+ 	{
+ 		"category": "Category: Baha'i History",
+ 		"question": "His Highness Malietoa Tanumafili II was the first reigning monarch to confirm his acceptance of the Bahá'í Faith in 1968.",
+ 		"answers": [
+ 			"He is from Tahiti.",
+ 			"He is from Vanuatu",
+ 			"He is from Samoa.",
+ 			"He is from Tonga."
+ 		],
+ 		"correctAnswerIndex": 2,
+ 		"feedback": "He is from Western Samoa."
+ 	}
+ ]
