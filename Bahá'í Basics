@@ -1,4 +1,4 @@
-[{
+ [{
 		"category": "Category: Baha'i Basics",
 		"question": "The first month of the Baha'i Year is called what?",
 		"answers": [
@@ -72,7 +72,7 @@
 			"Siyyid 'Ali-Muhammad",
 			"Siyyid Allah Muhammed",
 			"Siyyid Kazim-Rashti",
-			"Siyyid Husayn Ali"
+			"Siyyid Husayn Ali" 
 		],
 		"correctAnswerIndex": 0,
 		"feedback": "The Bab's birth name was Siyyid 'Ali-Muhammad."
@@ -341,6 +341,245 @@
 		"feedback": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God is known as Progressive revelation."
 	}, {
 		"category": "Category: Baha'i Basics",
+		"question": "How long can someone serve as a member of the Universal House of Justice?",
+		"answers": [
+			"Five Years",
+			"Ten Years",
+			"Two Terms",
+			"Indefinitely"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "There is no limit to the number of terms that one can be elected to and serve on the Universal House of Justice."
+	}, {
+		"category": "Category: Baha'i Basics",
+		"question": "Who ordained the institution of the Universal House of Justice?",
+		"answers": [
+			"Baha'u'llah",
+			"Abdu'l-Baha",
+			"Shoghi Effendi",
+			"The collective members of the National Assemblies"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Bahá’u’lláh wrote that “the men of the House of Justice are the trustees of God among His servants."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Where can Bahá’ís visit the resting place of Shoghi Effendi?",
+		"answers": [
+			"Haifa",
+			"Lucerne",
+			"Akka",
+			"London"
+		],{
+		"category": "Category: Baha'i Basics",
+		"question": "Shoghi Effendi married Mary Sutherland Maxwell in 1937. In what city did she grow up?",
+		"answers": [
+			"New York",
+			"Montreal",
+			"London",
+			"Haifa"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Mary Maxwell, later known as Ruhiyyih Khanum grew up in Montreal."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "At different stages in his ministry Shoghi Effendi appointed a number of Bahá’ís as advisors who were known as:",
+		"answers": [
+			"Leaves of His Cause",
+			"Pioneers",
+			"Hands of the Cause",
+			"Universal House of Justice"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The Hands of the Cause were appointed by Shoghi Effendi. Hands were also appointed earlier by Abdu'l-Baha and Baha'u'llah."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Shoghi Effendi wrote only one book in English. Which book was it?",
+		"answers": [
+			"God Loves Laaughter",
+			"The Dawn Breakers",
+			"The Star of the West",
+			"God Passes By"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Although he wrote many letters and translated widely, his only original book in English is God Passes By."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "In 1963 there were 56 national spiritual assemblies. 10 years later in 1973, how many national assemblies were there",
+		"answers": [
+			"78",
+			"89",
+			"113",
+			"211"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "There were 113 National Spiritual Assemblies in 1973."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Where was the first election of the Universal House of Justice held?",
+		"answers": [
+			"London",
+			"Wilmette",
+			"Haifa",
+			"Teheran"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The first Universal House of Justice was elected in 1963 in Haifa."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Who chairs the meetings of the Universal House of Justice?",
+		"answers": [
+			"They all take turns.",
+			"The member elect a chairman.",
+			"The member who received the most votes in the election",
+			"The longest serving member"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "They take turns chairing their meetings."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "When Bahá’u’lláh was a young man, he was known by another title. What was it?",
+		"answers": [
+			"Father of Consolation",
+			"Father of Kindness",
+			"Father of Peace",
+			"Father of the poor"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "TBaha'u'llah was known as the Father of the Poor."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Into how many languages has Bahá’í literature been translated?",
+		"answers": [
+			"150",
+			"250",
+			"500",
+			"over 800"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "To date the Baha'i writings have been translated into over 800 languages."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "From 1953 onwards, when a Bahá’í arose to open a new country or territory for the Faith, Shoghi Effendi, gave them what title?",
+		"answers": [
+			"Apostle of Bahá’u’lláh",
+			"Pioneer of the Cause",
+			"Leader of the pack",
+			"Knight of Bahá’u’lláh"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Shoghi Effendi gave them the title Knight of Bahá’u’lláh."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Who, according to Bahá'í teachings, is responsible for generating society’s wealth?",
+		"answers": [
+			"All men",
+			"All adult members of the community",
+			"The working class",
+			"The government"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "All adult members of the community are responsible."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "In the Bahá'í teachings, it is envisioned that income tax should be paid by:",
+		"answers": [
+			"Everyone",
+			"Only the rich",
+			"Those whose income exceeds their needs",
+			"The top 1%"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Those whose income exceeds their needs should pay tax."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "Who is  responsible for the implementation of social and economic development strategies?",
+		"answers": [
+			"Local government officials",
+			"National government",
+			"Non-governmental organisations (NGOs)",
+			"the people themselves"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The people are  primarily responsible for implementing social and economic solutions"
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "What is regarded as the most important economic activity?",
+		"answers": [
+			"agriculture",
+			"manufacturing",
+			"trade",
+			"Infrastructure"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The majority of the world’s population still earn their livelihood through agriculture, and we all depend upon it to survive."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "In the Bahá’í understanding, what is the principal driving force behind social advancement?",
+		"answers": [
+			"True religion",
+			"Effective leadership",
+			"Consultation",
+			"Investment"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Each divinely-inspired religion brings the moral teachings and social principles which are essential for the advancement of humanity."
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "T"
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "T"
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "T"
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "T"
+	},{
+		"category": "Category: Baha'i Basics",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "T"
+	},{
+		"category": "Category: Baha'i Basics",
 		"question": "Baha'u'llah teaches that heaven and hell are:",
 		"answers": [
 			"are to be understood symbolically",
@@ -587,11 +826,164 @@
 		"answers": [
 			"Teheran",
 			"Isfahan",
-			"Mashad",
+			"Tabriz",
 			"Shiraz"
 		],
+		"correctAnswerIndex": 2,
+		"feedback": "53 ---The Bab was Martyered in Shiraz on July, 9th 1850." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "After the Martyrdom of the Bab, what became of the regiment that killed him?",
+		"answers": [
+			"They died when a dust storm killed them all in the desert. ",
+			"They were disbanded and died in poverty.",
+			"They were killed in an earthquake and by firing squad."
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "250 were killed when an earthquake destroyed the wall they were restingbeside. The others by firing squad for mutiny. " 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "Where was the Bab's deciple Quddus born?",
+		"answers": [
+			"Barfurush",
+			"Mazandaran",
+			"Shiraz",
+			"Isfahan"
+		],
 		"correctAnswerIndex": 0,
-		"feedback": "53 ---The Shah sent the Bab to the Castle of Máh-Kú"
-	}
+		"feedback": "Quddus was born in Barfurush. He was only 22 when he accepted the Bab." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "Which of the Letters of the Living never attained the presence of the Bab?",
+		"answers": [
+			"Quddus",
+			"Mulla  Aliy-i-Bastami",
+			"Tahireh",
+			"Mulla  Yusif-i-Ardibili"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Tahireh never atttained the presence of the Bab." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "Who sent Siyyid Yahyay-i-Darabi (Vahid) to investigate the claims of the Baab?",
+		"answers": [
+			"Fath Ali Shah",
+			"Muhammad Shah",
+			"Haji Mirza Aqasi",
+			"Sultan Ali-Muhammad"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Muhammad Shah sent Vahid to met with the Bab and investigate his claim." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "In which city was the first local assembly formed in 1899?",
+		"answers": [
+			"Chicago",
+			"Haifa",
+			"London",
+			"Teheran"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The first Local Spiritual Assembly was formed in Teheran." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "Which European Queen became a Bahá’í in 1926?",
+		"answers": [
+			"Queen Gertrude of the Netherlands",
+			"Queen Latifa of Greeece",
+			"Queen Charlotte of Belgium",
+			"Queen Marie of Romania"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Queen Marie of Romania. She learned of the Faith from Martha Root " 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "Which Bahá’í property in Iran was demolished by the Revolutionary Guards in September 1979?",
+		"answers": [
+			"The House of Baha'u'llah",
+			"The House of Abbud",
+			"The House of the Bab",
+			"The Mansion of Udi Khammar"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The House of the Bab was destroyed in 1979 by the Iranian Revolutionary Guards." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "Which Russian philosopher and writer wrote: ‘Bahá’u’lláh’s teachings present us with the highest and purest form of religious teaching’?",
+		"answers": [
+			"Leo Tolstoy",
+			"Fyodor Dostoyevsky",
+			"Alexander Pushkin",
+			"Nickolas Tesla"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Tolstoy who was in the process of writing a book about Bahá’u’lláh when he passed away." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "How many Bahá’ís were killed in Iran between 1979 and 1988 for upholding their religious beliefs?",
+		"answers": [
+			"at least 10",
+			"at least 90",
+			"at least 135",
+			"at least 220"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Over 220 were martered for their beliefs during this ten year period." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "His Highness Malietoa Tanumafili II was the first reigning monarch to confirm his acceptance of the Bahá'í Faith in 1968.",
+		"answers": [
+			"He is from Tahiti.",
+			"He is from Vanuatu",
+			"He is from Samoa.",
+			"He is from Tonga."
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "He is from Western Samoa." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "53 ---The Bab was Martyered in Tabriz on July, 9th 1850." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "53 ---The Bab was Martyered in Tabriz on July, 9th 1850." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "53 ---The Bab was Martyered in Tabriz on July, 9th 1850." 
+	},{
+		"category": "Category: Baha'i History",
+		"question": "",
+		"answers": [
+			"",
+			"",
+			"",
+			""
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "53 ---The Bab was Martyered in Tabriz on July, 9th 1850." 
+	},
 ]
 
