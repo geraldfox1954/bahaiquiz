@@ -79,8 +79,8 @@
 		"question": "Each Bahá’í month lasts for how many days?",
 		"answers": [
 			"19",
+			"20 in leap years",
 			"21",
-			"28",
 			"30"
 		],
 		"correctAnswerIndex": 0,
@@ -112,10 +112,10 @@
 		"category": "Category: Bahá’í Basics",
 		"question": "What does 'The Báb' mean? ",
 		"answers": [
-			"Bridge",
+			"The Bridge",
 			"The Mahdi",
-			"Gate",
-			"Beloved"
+			"The Gate",
+			"The Beloved"
 		],
 		"correctAnswerIndex": 2,
 		"feedback": "The word Báb in Arabic means Gate."
@@ -147,7 +147,7 @@
 		"answers": [
 			"Baha",
 			"Jamal",
-			"Nur",
+			"Goshne",
 			"Ala"
 		],
 		"correctAnswerIndex": 3,
@@ -220,7 +220,7 @@
 		"feedback": "The Universal House of Justice is the supreme elected body of the world."
 	}, {
 		"category": "Category: Bahá’í Basics",
-		"question": "What is the most fundamental teaching of the Bahá’í Faith?",
+		"question": "According to Abd'ul-Baha, What is the most fundamental teaching of the Bahá’í Faith?",
 		"answers": [
 			"Detachment",
 			"Honesty",
@@ -425,7 +425,8 @@
 		"answers": [
 			"are to be understood symbolically",
 			"are real places.",
-			"are nonexistent because our souls cease to exist after death."
+			"are nonexistent because our souls cease to exist after death.",
+			"are just like in the movies." 
 		],
 		"correctAnswerIndex": 0,
 		"feedback": "are to be understood symbolically and describe a state of nearness to or distance from God."
@@ -465,18 +466,6 @@
 		"correctAnswerIndex": 3,
 		"feedback": "Independent investigation of truth."
 	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "How should people find spiritual truth?",
-		"answers": [
-			"By following their parent's religion.",
-			"Though rejection of material things.",
-			"By learning from the clergy.",
-			"By investigating truth for themselves."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Independent investigation of truth."
-	},
  {
 		"category": "Category: Bahá’í Basics",
 		"question": "How many days each year do Bahá’ís fast?",
@@ -501,9 +490,9 @@
 		"feedback": "Bahá’ís should begin to fast from the age of 15 and until they reach 70 if healthy."
 	}, {
 		"category": "Category: Bahá’í Basics",
-		"question": "During the Fast, Baha'is are to abstain from food, water and smoking from sunrise to sunset. Which of these are not prohibited? ",
+		"question": "During the Fast, Baha'is are to abstain from sunrise to sunset. Which of these are not prohibited? ",
 		"answers": [
-			"food", "water", "smoking", "talking about how hungry they are."
+			"food", "water", "cheese", "talking about how hungry they are."
 		],
 		"correctAnswerIndex": 3,
 		"feedback": " While it may be counter productive to a good fast, whining is not expressly forbidden."
@@ -523,7 +512,7 @@
 			"belief and superstition"
 		],
 		"correctAnswerIndex": 0,
-		"feedback": "The Baha’ i faith teaches that science and religion must agree."
+		"feedback": "The Baha’i faith teaches that science and religion must agree. Men and sports will forever disagree."
 	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Bahá’is should read something from the Baha’í scriptures every day. How often?",
@@ -576,21 +565,21 @@
 		"feedback": "There are 12 days of Ridvan but not are all days off at work."
 	}, {
 		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is NOT a Baha’ i Holy day ?",
+		"question": "Which of these is NOT a Baha’i Holy day ?",
 		"answers": ["Naw - Ruz", "Birth of Abdu’ l - Baha", "Day of the Covenant", "Declaration of the Báb"],
 		"correctAnswerIndex": 1,
-		"feedback": "The birth of Abdu’ l - Baha is not one of the Holy Days."
+		"feedback": "The birth of Abdu’l- Baha is not one of the official Holy Days."
 	},
 	{
 		"category": "Category: Bahá’í Basics",
-		"question": "This time commemorates the public proclamation of Baha’ u’ llah’ s mission as God’ s messenger for this age.",
+		"question": "This time commemorates the public proclamation of Baha’u’llah’ s mission as God’ s messenger for this age.",
 		"answers": ["Ridvan", "Naw Ruz", "Ayyam’ i’ Ha", "Day of the Covenant"],
 		"correctAnswerIndex": 0,
 		"feedback": "Ridvan is the time when Baha’ u’ llah declared his mission."
 	},
 	{
 		"category": "Category: Bahá’í Basics",
-		"question": "Another name for the Baha’ i calendar is: ",
+		"question": "Another name for the Baha’i calendar is: ",
 		"answers": ["The Babi calendar", "The Hadi calendar", "The Badi calendar", "The Walii calendar"],
 		"correctAnswerIndex": 2,
 		"feedback": "The Badi calendar is another way of saying the Baha’ i calendar."
@@ -657,7 +646,7 @@
 		"feedback": "Baha'is believe there is only one race...The Human Race."
 	}, {
 		"category": "Category: Bahá’í Basics",
-		"question": "The Baha'is believe in the adoption of a universal _____ auxiliary language",
+		"question": "The Baha'is believe in the adoption of a universal _____ language",
 		"answers": ["auxiliary", "English", "computer", "spiritual"],
 		"correctAnswerIndex": 0,
 		"feedback": "The Baha'is believe in the adoption of a universal auxiliary language."
@@ -670,7 +659,7 @@
 	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Baha'is share a common goal of ______ and refining their inner-lives",
-		"answers": ["sharing humanity", "playing humanely", "serving humanity", "plotting revengefully"],
+		"answers": ["sharing humanity", "playing humanely", "serving humanity", "shaving humanity"],
 		"correctAnswerIndex": 2,
 		"feedback": "Serving humanity is the goal."
 	}, {
@@ -723,5 +712,6 @@
 		"correctAnswerIndex": 2,
 		"feedback": "Material and spiritual advancement."
 	}
+ ]
 
 ]
