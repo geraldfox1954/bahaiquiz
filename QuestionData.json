@@ -426,7 +426,7 @@
 			"are to be understood symbolically",
 			"are real places.",
 			"are nonexistent because our souls cease to exist after death.",
-			"are just like in the movies." 
+			"are just like in the movies."
 		],
 		"correctAnswerIndex": 0,
 		"feedback": "are to be understood symbolically and describe a state of nearness to or distance from God."
@@ -466,7 +466,7 @@
 		"correctAnswerIndex": 3,
 		"feedback": "Independent investigation of truth."
 	},
- {
+	{
 		"category": "Category: Bahá’í Basics",
 		"question": "How many days each year do Bahá’ís fast?",
 		"answers": [
@@ -712,6 +712,4 @@
 		"correctAnswerIndex": 2,
 		"feedback": "Material and spiritual advancement."
 	}
- ]
-
 ]
